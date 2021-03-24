@@ -1,0 +1,57 @@
+saudacao>>Olá
+saudacao>>Oi
+saudacao>>oie
+saudacao>>Bom dia!
+saudacao>>Boa Tarde!
+saudacao>>Tudo bom?
+saudacao>>Tudo bem?
+saudacao>>Olá, tudo bem?
+saudacao>>Oi, bom dia!
+saudacao>>Hey
+saudacao>>oiii
+saudacao>>como vai?
+saudacao>>oi Athena
+despedida>>tchau
+despedida>>até mais
+despedida>>flws
+ajuda>>preciso de ajuda
+ajuda>>estou com uma dúvida
+ajuda>>socorro
+agradecimento>>obrigada
+agradecimento>>obrigado
+agradecimento>>valeu
+agradecimento>>vlw
+agradecimento>>fico agradecido
+agendaDoDia>>O que eu tenho pra fazer hoje? 
+agendaDoDia>>O que eu tenho pra fazer?
+agendaDoDia>>Quais os meu compromissos de hoje?
+agendaDoDia>>Me manda as reuniões de hoje
+agendaDoDia>>Qual a minha agenda de hoje
+agendaDoDia>>Me fala meus horários 
+agendaDoDia>>tem reunião hoje?
+agendaDoDia>>que horas é a daily?
+agendaDoDia>>qual minha próxima reunião?
+agendaDoDia>>que horas é minha reunião?	
+agendaSemanal>>Quero ver minha agenda dessa semana
+agendaSemanal>>Quais reuniões eu tenho essa semana?
+agendaSemanal>>o que tem planejado para a semana?
+agendaSemanal>>quais meus compromissos para esta semana?
+agendaSemanal>>liste minhas reuniões dessa semana
+agendaSemanal>>me fala as reuniões dessa semana
+agendaSemanal>>essa semana tem muita coisa para eu fazer?
+agendaSemanal>>eu tenho planing essa semana?
+agendaMensal>>Leia minha agenda
+agendaMensal>>Fala minha agenda
+agendaMensal>>Quantas reuniões eu tenho nesse mês?
+agendaMensal>>quais os meus compromissos para este mês?
+agendaMensal>>tenho reunião esse mês?
+agendaMensal>>fala a minha agenda do mês
+agendaMensal>>athena, me me mostra a minha agenda do mes
+happyHour>>quando é o próximo Happy Hour?
+happyHour>>quando vai ser o happy hour?
+happyHour>>que horas é o happy hour?	
+happyHour>>vai ter hapy hour?
+happyHour>>me avise quando tiver happyhour
+happyHour>>quem foi chamado pro happyHour?
+happyHour>>athena, me fala do happy hour da PRTE
+happyHour>>que horas vai ser o happyHour?
