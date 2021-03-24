@@ -4,8 +4,4 @@ Testes iniciais da Athena com python e integração com telegram
 
 
 ## Dependências
-python
-pip
-numpy
-sklearn
-telepot
+python, pip, numpy, sklearn e telepot
